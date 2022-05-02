@@ -1,4 +1,4 @@
-import phrases from './phrases.json'
+//import phrases from './phrases.json'
 import './App.css';
 import QuoteBox from './components/QuoteBox';
 

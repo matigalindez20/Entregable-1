@@ -1,7 +1,7 @@
 import phrases from '../phrases.json'
 import React, { useState } from 'react';
 
-const colors = ["red", "yellow", "blue", "green", "orange", "gray", "purple"]
+
 
 
 const QuoteBox = () => {
